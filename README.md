@@ -37,22 +37,22 @@ Base de datos relacional en **MySQL**, trabajando con **normalización**, **cons
 
 ---
 
-## 🌐 Mi Portafolio Web
+## Mi Portafolio Web
 
 Puedes visitar mi sitio personal para conocer más sobre mí y mis proyectos:  
-👉 **[https://jhonatanmu007.github.io]((https://jhonatanmu007.github.io))**
+ **[https://jhonatanmu007.github.io](https://jhonatanmu007.github.io)**
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- ✉️ **Correo:** jhonatanmontanouriona@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)  
-- 🐙 **GitHub:** [github.com/JhonatanMU007](https://github.com/JhonatanMU007)  
+-  **Correo:** jhonatanmontanouriona@gmail.com  
+-  **LinkedIn:** [linkedin.com/in/tuperfil](https://linkedin.com/in/tuperfil)  
+-  **GitHub:** [github.com/JhonatanMU007](https://github.com/JhonatanMU007)  
 
 ---
 
-## 📜 Objetivo Profesional
+## Objetivo Profesional
 
 Mi meta es convertirme en un **desarrollador full stack** capaz de crear soluciones completas y eficientes,  
 manteniendo siempre una mentalidad de aprendizaje y mejora continua. 💡  
